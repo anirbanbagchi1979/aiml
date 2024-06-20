@@ -1,0 +1,37 @@
+
+Gradient boosting Val with Original data	AdaBoost Val with Original data	AdaBoost Val with Undersampled data
+Accuracy	0.953	0.967	0.944
+Recall	0.930	0.856	0.951
+Precision	0.806	0.933	0.762
+F1	0.864	0.893	0.846
+
+Gradient boosting trained with Original data	AdaBoost trained with Original data	AdaBoost trained with Undersampled data
+Accuracy	0.976	0.985	0.984
+Recall	0.992	0.934	0.985
+Precision	0.876	0.969	0.983
+F1	0.930	0.951	0.984
+
+
+
+
+Validation performance comparison:
+Gradient boosting Val with Original data	AdaBoost Val with Original data	AdaBoost Val with Undersampled data
+Accuracy	0.942	0.951	0.933
+Recall	0.908	0.789	0.942
+Precision	0.773	0.896	0.726
+F1	0.835	0.839	0.820
+
+
+
+Training performance comparison:
+Gradient boosting trained with Original data	AdaBoost trained with Original data	AdaBoost trained with Undersampled data
+Accuracy	0.967	0.977	0.970
+Recall	0.983	0.895	0.970
+Precision	0.840	0.956	0.971
+F1	0.906	0.925	0.970
+
+
+
+
+
+
